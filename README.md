@@ -8,14 +8,16 @@ TypeScript gets you writing scalable JavaScript applications with classical obje
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>What Angular components are and how to create them 
-<LI>How to write better code with directives 
-<LI>Move from loose types to predictable strict types 
-<LI>Create new Angular project using CLI 
-<LI>Build simple and fully interactive forms in Angular 
-<LI>Create simple page routing in Angular 
-<LI>Learn how to debug code with useful tools 
-<LI>Replace mocked data with remote data with Angular HttpClient </LI></UL></DIV>
+<LI>Set up the TypeScript environment and workflow and get the most out of it.
+<LI>Get the most out of ES6+ / ES2015 features by using TypeScript.
+<LI>Organize real-world scalable SPAs.
+<LI>]Use TypeScript to write clean, scalable code.
+<LI>The fundamentals of the TypeScript language and what’s new in TypeScript 2.
+<LI>Apply TypeScript to Angular 5, Vue.js, and Aurelia
+<LI>Add data typings to any framework/library
+<LI>Use TypeScript with Node.js, Angular 5 , VueJS, and Aurelia
+
+<LI> </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
