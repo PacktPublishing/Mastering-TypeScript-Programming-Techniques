@@ -17,7 +17,7 @@ TypeScript gets you writing scalable JavaScript applications with classical obje
 <LI>Add data typings to any framework/library
 <LI>Use TypeScript with Node.js, Angular 5 , VueJS, and Aurelia
 
-<LI> </LI></UL></DIV>
+ </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
